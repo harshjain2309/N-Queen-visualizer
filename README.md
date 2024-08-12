@@ -1,7 +1,11 @@
-The N-Queen Visualizer is an interactive tool designed to help users understand and visualize the N-Queen problem, a classic combinatorial problem in which N queens
+# N-Queen-Visualizer
+
+The N-Queen-Visualizer is an interactive tool designed to help users understand and visualize the N-Queen problem, a classic combinatorial problem in which N queens
 must be placed on an N×N chessboard such that no two queens threaten each other. This means that no two queens can share the same row, column, or diagonal.
 
-Features->
+# Live Demo : https://n-queen-visualizerr.netlify.app/
+
+# Features->
 
 Interactive Visualization: Watch as the algorithm solves the N-Queen problem step-by-step.
 Multiple Algorithms: Choose from different algorithms (e.g., backtracking, genetic algorithms) to see how each one approaches the problem.
